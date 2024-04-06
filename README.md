@@ -1,16 +1,50 @@
-### Hi there 👋
+ <h1 align="center">Hi 👋, I'm Sanam Rahimi</h1>
 
-<!--
-**sanamrahimi/sanamrahimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :woman_technologist: About Me :
 
-Here are some ideas to get you started:
+- 🎓 I have a bachelor's degree in Computer Science (software engineering). Obtained from Kabul University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❤️ Love to work with Flutter | Dart | Node Js 
+
+- 🌱 Passionate about building dynamic and responsive Flutter applications
+
+- 🌎 Collaborating remotely with developers from various location
+
+- ✨ Interests: coding, reading books, driving.
+
+
+---
+
+### Connect with me: 📫
+<div id="badges">
+    <a href="https://github.com/sanamrahimi">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sanam-rahimi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/SanamRahimi99">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+   <a href="sanamrahimi57@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.instagram.com/axif_taj">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+
+
+---
+
+
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+
+![Sanam Rahimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanamrahimi&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanamrahimi&theme=dark)
+
+
+<br>
+⭐️ From [sanamrahimi](https://github.com/sanamrahimi)
