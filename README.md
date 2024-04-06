@@ -1,4 +1,8 @@
- <h1 align="center">Hi 👋, I'm Sanam Rahimi</h1>
+<h1 align="center">Hi 👋, I'm Sanam Rahimi</h1>
+
+<h4 align="center">Flutter app developer with one year of hands-on experience, crafting sleek and functional mobile experiences. Passionate about building intuitive user interfaces and solving real-world problems through code. Eager learner, always seeking new challenges and opportunities to grow. Let's innovate together with Flutter!</h4>
+
+---
 
 ### :woman_technologist: About Me :
 
